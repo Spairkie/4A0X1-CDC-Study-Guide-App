@@ -1,0 +1,4003 @@
+{
+  "schemaVersion": 2,
+  "app": "4A0X1 CDCs Study Guide",
+  "totalQuestions": 200,
+  "datasets": {
+    "5-level": {
+      "course": "CDC 4A051 - Health Services Management Journeyman",
+      "source": "Module 1-11 Answers.pdf",
+      "totalQuestions": 150,
+      "groupCount": 11,
+      "groupLabel": "Module"
+    },
+    "7-level": {
+      "course": "CDC 4A071N Volume 1 - Health Services Management Craftsman",
+      "source": "4A071N_01_0608_20250203 edit.pdf",
+      "totalQuestions": 50,
+      "groupCount": 16,
+      "groupLabel": "Lesson"
+    }
+  },
+  "questions": [
+    {
+      "id": "5l-m1-q1",
+      "level": "5-level",
+      "groupNumber": 1,
+      "groupLabel": "Module",
+      "questionNumber": 1,
+      "question": "In the Air Force, what are the two main types of customers a 4A0 Medical Service Technician will interact with?",
+      "choices": {
+        "a": "Patients and flight crews",
+        "b": "Officers and enlisted personnel",
+        "c": "Doctors and nurses",
+        "d": "Internal staff and external customers (patients)"
+      },
+      "correctAnswer": "d",
+      "correctText": "Internal staff and external customers (patients)",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m1-q2",
+      "level": "5-level",
+      "groupNumber": 1,
+      "groupLabel": "Module",
+      "questionNumber": 2,
+      "question": "What does the acronym BLUF stand for in Air Force email writing?",
+      "choices": {
+        "a": "Bottom Line Up Front",
+        "b": "Brief List Useful Facts",
+        "c": "Be Logical Use Facts",
+        "d": "Bottom Line Up Forward"
+      },
+      "correctAnswer": "a",
+      "correctText": "Bottom Line Up Front",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m1-q3",
+      "level": "5-level",
+      "groupNumber": 1,
+      "groupLabel": "Module",
+      "questionNumber": 3,
+      "question": "What is the recommended spacing between paragraphs in an official memorandum?",
+      "choices": {
+        "a": "Triple space",
+        "b": "Double space",
+        "c": "One and a half lines",
+        "d": "Single space"
+      },
+      "correctAnswer": "b",
+      "correctText": "Double space",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m1-q4",
+      "level": "5-level",
+      "groupNumber": 1,
+      "groupLabel": "Module",
+      "questionNumber": 4,
+      "question": "Where should the signature block be placed in an Air Force official memorandum?",
+      "choices": {
+        "a": "Centered at the bottom of the page",
+        "b": "Double spaced below the last line of the text",
+        "c": "On the fifth line below the last line of text, 4.5 inches from the left edge",
+        "d": "On the fifth line below the last line of text, 4.5 inches from the right edge"
+      },
+      "correctAnswer": "c",
+      "correctText": "On the fifth line below the last line of text, 4.5 inches from the left edge",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m1-q5",
+      "level": "5-level",
+      "groupNumber": 1,
+      "groupLabel": "Module",
+      "questionNumber": 5,
+      "question": "The Unit Effectiveness Inspection (UEI) evaluates a Wing's performance based on which four Major Graded Areas (MGAs)?",
+      "choices": {
+        "a": "Personnel, Equipment, Facilities, and Supplies",
+        "b": "Alertness, Security, Communications, and Intelligence",
+        "c": "Executing the Mission, Managing Resources, Improving the Unit, Leading People",
+        "d": "Logistics, Operations, Maintenance, and Training"
+      },
+      "correctAnswer": "c",
+      "correctText": "Executing the Mission, Managing Resources, Improving the Unit, Leading People",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m1-q6",
+      "level": "5-level",
+      "groupNumber": 1,
+      "groupLabel": "Module",
+      "questionNumber": 6,
+      "question": "What information should the \"Subject\" line of an eSSS email contain?",
+      "choices": {
+        "a": "Only the title of the memorandum",
+        "b": "The names of everyone who needs to review the memorandum",
+        "c": "The action required only",
+        "d": "The action required, suspense date, and title of the memorandum"
+      },
+      "correctAnswer": "d",
+      "correctText": "The action required, suspense date, and title of the memorandum",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m1-q7",
+      "level": "5-level",
+      "groupNumber": 1,
+      "groupLabel": "Module",
+      "questionNumber": 7,
+      "question": "The Defense Health Agency achieves top outcomes despite operating in complex or high-risk environments, making it a ...",
+      "choices": {
+        "a": "High Reliability Organization",
+        "b": "High Reward Organization",
+        "c": "High Risk Organization",
+        "d": "High Retention Organization"
+      },
+      "correctAnswer": "a",
+      "correctText": "High Reliability Organization",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m1-q8",
+      "level": "5-level",
+      "groupNumber": 1,
+      "groupLabel": "Module",
+      "questionNumber": 8,
+      "question": "Which of the following is the core principle that defines the Air Force Medical Service's (AFMS) commitment to patients?",
+      "choices": {
+        "a": "Sensitivity to Operations",
+        "b": "Trusted Care",
+        "c": "Preoccupation with Failure",
+        "d": "Constancy of Purpose"
+      },
+      "correctAnswer": "b",
+      "correctText": "Trusted Care",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m1-q9",
+      "level": "5-level",
+      "groupNumber": 1,
+      "groupLabel": "Module",
+      "questionNumber": 9,
+      "question": "The principle of driving zero harm by anticipating and addressing risks is called ...",
+      "choices": {
+        "a": "Reluctance to Simplify",
+        "b": "Constancy of Purpose",
+        "c": "Preoccupation With Failure",
+        "d": "Sensitivity to Operations 1'"
+      },
+      "correctAnswer": "c",
+      "correctText": "Preoccupation With Failure",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m1-q10",
+      "level": "5-level",
+      "groupNumber": 1,
+      "groupLabel": "Module",
+      "questionNumber": 10,
+      "question": "What is the role of \"flight or team huddles\" within the CPI Management System?",
+      "choices": {
+        "a": "To introduce new employees to the workplace",
+        "b": "To provide individual feedback",
+        "c": "To complete performance evaluations",
+        "d": "To discuss and solve problems collaboratively"
+      },
+      "correctAnswer": "d",
+      "correctText": "To discuss and solve problems collaboratively",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q1",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 1,
+      "question": "How many geographic health service regions does TRICARE have in the United States?",
+      "choices": {
+        "a": "Two (East and West)",
+        "b": "Four (North, South, East, and West)",
+        "c": "Ten (aligned with the Federal Emergency Management Agency (FEMA) regions)",
+        "d": "Fifty (one for each state)"
+      },
+      "correctAnswer": "a",
+      "correctText": "Two (East and West)",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q2",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 2,
+      "question": "With whom does a BCAC coordinate to provide accurate information and timely assistance to TRICARE beneficiaries?",
+      "choices": {
+        "a": "The patient's family members and legal representatives.",
+        "b": "Local businesses that offer discounts to military personnel.",
+        "c": "MHS points of contact, including TRICARE contractors.",
+        "d": "Civilian healthcare providers outside the TRICARE network."
+      },
+      "correctAnswer": "c",
+      "correctText": "MHS points of contact, including TRICARE contractors.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q3",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 3,
+      "question": "What is a common requirement for submitting a FOIA request?",
+      "choices": {
+        "a": "The requestor must provide a valid reason for needing the information.",
+        "b": "The requestor must pay a substantial fee in advance.",
+        "c": "The requestor must have a security clearance.",
+        "d": "The request must be made in writing and reasonably describe the desired records."
+      },
+      "correctAnswer": "d",
+      "correctText": "The request must be made in writing and reasonably describe the desired records.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q4",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 4,
+      "question": "Which member of an AFW2 Recovery Team is responsible for assisting the wounded warrior and their family in understanding medical conditions, treatments, and coordinating care within the MTF?",
+      "choices": {
+        "a": "Recovery Care Coordinator (RCC)",
+        "b": "Non-Medical Care Manager",
+        "c": "Medical Care Case Manager",
+        "d": "Family Liaison Officer"
+      },
+      "correctAnswer": "c",
+      "correctText": "Medical Care Case Manager",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q5",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 5,
+      "question": "To whom does the DQM typically present data-driven insights and recommendations?",
+      "choices": {
+        "a": "The patients and their families",
+        "b": "The local community leaders",
+        "c": "The TRICARE regional contractor",
+        "d": "The MTF Commander and Executive Team"
+      },
+      "correctAnswer": "d",
+      "correctText": "The MTF Commander and Executive Team",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q6",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 6,
+      "question": "Who typically approves an AGMTU TOY for an Airman?",
+      "choices": {
+        "a": "The Airman's primary care manager (PCM).",
+        "b": "The Airman's home unit SGH.",
+        "c": "The Air Force Surgeon General.",
+        "d": "The Airman's unit commander."
+      },
+      "correctAnswer": "b",
+      "correctText": "The Airman's home unit SGH.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q7",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 7,
+      "question": "In what situations does a BCAC help resolve concerns for TRICARE beneficiaries?",
+      "choices": {
+        "a": "When beneficiaries are dissatisfied or unclear about services provided by MHS and contractor staff.",
+        "b": "When beneficiaries have disputes with their civilian employers over health insurance coverage.",
+        "c": "When beneficiaries are seeking experimental medical treatments not covered by TRICARE.",
+        "d": "When beneficiaries need assistance with filing taxes related to medical expenses."
+      },
+      "correctAnswer": "a",
+      "correctText": "When beneficiaries are dissatisfied or unclear about services provided by MHS and contractor staff.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q8",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 8,
+      "question": "How are military personnel involved in Presidential Support Activities typically categorized?",
+      "choices": {
+        "a": "Based on their geographic location.",
+        "b": "Based on their security clearance level.",
+        "c": "Based on their level of direct support to the President or Vice President.",
+        "d": "Based on their branch of service (Air Force, Army, Navy, etc.)."
+      },
+      "correctAnswer": "c",
+      "correctText": "Based on their level of direct support to the President or Vice President.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q9",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 9,
+      "question": "Which form is used as the Air Force Special Needs Screener, often distributed and collected by the FMRCC?",
+      "choices": {
+        "a": "SF 600",
+        "b": "AF Form 4380",
+        "c": "DD Form 2569",
+        "d": "DD Form 2870"
+      },
+      "correctAnswer": "b",
+      "correctText": "AF Form 4380",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q10",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 10,
+      "question": "When does a preliminary FMRC and FDI occur for Embassy/Attache assignments?",
+      "choices": {
+        "a": "During the sponsor's candidacy process.",
+        "b": "When the family members arrive at the OCONUS location.",
+        "c": "Within 8 months of arriving at the OCONUS location.",
+        "d": "After the sponsor has been selected for the assignment."
+      },
+      "correctAnswer": "a",
+      "correctText": "During the sponsor's candidacy process.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q11",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 11,
+      "question": "An active-duty service member traveling 146 miles for elective surgery is authorized travel reimbursement.",
+      "choices": {
+        "a": "No",
+        "b": "Yes"
+      },
+      "correctAnswer": "a",
+      "correctText": "No",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q12",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 12,
+      "question": "Which of the following is a potential way that the DoD and VA resource-sharing agreement might be implemented locally?",
+      "choices": {
+        "a": "Having military providers treat veterans at VA facilities.",
+        "b": "Requiring all veterans to seek care at MTFs.",
+        "c": "Providing free transportation for veterans to MTFs.",
+        "d": "Eliminating the need for referrals to specialty care."
+      },
+      "correctAnswer": "a",
+      "correctText": "Having military providers treat veterans at VA facilities.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q13",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 13,
+      "question": "Which standardized appointment name corresponds to a routine appointment that should be scheduled within 7 calendar days?",
+      "choices": {
+        "a": "Acute",
+        "b": "Well-patient",
+        "c": "Specialty",
+        "d": "Routine"
+      },
+      "correctAnswer": "d",
+      "correctText": "Routine",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q14",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 14,
+      "question": "Which core principle of the Air Force Medical Home (AFMH) model emphasizes collaboration among healthcare professionals?",
+      "choices": {
+        "a": "Quality and safety",
+        "b": "Team-based care",
+        "c": "Whole-person orientation",
+        "d": "Personal provider"
+      },
+      "correctAnswer": "b",
+      "correctText": "Team-based care",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q15",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 15,
+      "question": "Besides the VA Sharing Agreement, what other major agreement helps ensure quality healthcare for military beneficiaries?",
+      "choices": {
+        "a": "The Federal Employees Health Benefits (FEHB) Program.",
+        "b": "The Medicare Advantage Program.",
+        "c": "The Affordable Care Act (ACA)",
+        "d": "The Managed Care Support Contract (MCSC) Agreement."
+      },
+      "correctAnswer": "d",
+      "correctText": "The Managed Care Support Contract (MCSC) Agreement.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q16",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 16,
+      "question": "What is the term for the integration of Population Health strategies and the AFMH model to improve patient outcomes and healthcare delivery?",
+      "choices": {
+        "a": "Preventive Medicine",
+        "b": "Community Health",
+        "c": "Public Health",
+        "d": "Medical Management"
+      },
+      "correctAnswer": "d",
+      "correctText": "Medical Management",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q17",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 17,
+      "question": "What is the name of the appointment system used by most MTFs, which emphasizes providing multiple options beyond traditional face-to- face appointments?",
+      "choices": {
+        "a": "Enhanced Access",
+        "b": "Block Scheduling",
+        "c": "Open Scheduling",
+        "d": "Wave Scheduling"
+      },
+      "correctAnswer": "a",
+      "correctText": "Enhanced Access",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q18",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 18,
+      "question": "What is the primary reason for stringent screening and certification procedures for personnel involved in nuclear weapons duties?",
+      "choices": {
+        "a": "The potential political consequences of an accident or unauthorized act.",
+        "b": "The risk of exposure to radiation during routine handling of nuclear weapons.",
+        "c": "The need to maintain secrecy about the design and operation of nuclear weapons.",
+        "d": "The high cost of training personnel to work with nuclear weapons."
+      },
+      "correctAnswer": "a",
+      "correctText": "The potential political consequences of an accident or unauthorized act.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q19",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 19,
+      "question": "Which form is used to collect OHi information from non-active-duty patients?",
+      "choices": {
+        "a": "DD Form 2870 (Authorization for Disclosure of Medical or Dental Information)",
+        "b": "DD Form 2569",
+        "c": "SF 600 (Chronological Record of Medical Care)",
+        "d": "AF Form 1488"
+      },
+      "correctAnswer": "b",
+      "correctText": "DD Form 2569",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m2-q20",
+      "level": "5-level",
+      "groupNumber": 2,
+      "groupLabel": "Module",
+      "questionNumber": 20,
+      "question": "What is the correct method for removing a time slot from a provider template in MHS GENESIS?",
+      "choices": {
+        "a": "Select the time slot and press the \"Delete\" key on the keyboard.",
+        "b": "Right-click on the time slot and select \"Delete Time Block.\"",
+        "c": "Double-click on the time slot and choose \"Remove.\"",
+        "d": "Click and drag the time slot to the trash icon."
+      },
+      "correctAnswer": "b",
+      "correctText": "Right-click on the time slot and select \"Delete Time Block.\"",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m3-q1",
+      "level": "5-level",
+      "groupNumber": 3,
+      "groupLabel": "Module",
+      "questionNumber": 1,
+      "question": "A patient may opt for a later appointment date in order to be seen in the MTF by ...",
+      "choices": {
+        "a": "seeking emergency services.",
+        "b": "self-referring to specialty care.",
+        "c": "waiving their ATC standard.",
+        "d": "enrolling in TRICARE Select."
+      },
+      "correctAnswer": "c",
+      "correctText": "waiving their ATC standard.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m3-q2",
+      "level": "5-level",
+      "groupNumber": 3,
+      "groupLabel": "Module",
+      "questionNumber": 2,
+      "question": "A referral may be closed before the referring provider receives the CLR, as long as the patient has received specialty care.",
+      "choices": {
+        "a": "No",
+        "b": "Yes"
+      },
+      "correctAnswer": "a",
+      "correctText": "No",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m3-q3",
+      "level": "5-level",
+      "groupNumber": 3,
+      "groupLabel": "Module",
+      "questionNumber": 3,
+      "question": "Care for SECDES program designees is typically authorized for periods no greater than ...",
+      "choices": {
+        "a": "36 months",
+        "b": "20 months",
+        "c": "24 months",
+        "d": "30 months"
+      },
+      "correctAnswer": "c",
+      "correctText": "24 months",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m3-q4",
+      "level": "5-level",
+      "groupNumber": 3,
+      "groupLabel": "Module",
+      "questionNumber": 4,
+      "question": "Documents may be attached to a referral in RM 2.0 under this tab.",
+      "choices": {
+        "a": "Records",
+        "b": "Documents",
+        "c": "Comments",
+        "d": "Attachments"
+      },
+      "correctAnswer": "b",
+      "correctText": "Documents",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m3-q5",
+      "level": "5-level",
+      "groupNumber": 3,
+      "groupLabel": "Module",
+      "questionNumber": 5,
+      "question": "Does the SECDES program allow designees to utilize TRICARE benefits and entitlements?",
+      "choices": {
+        "a": "Yes",
+        "b": "No"
+      },
+      "correctAnswer": "b",
+      "correctText": "No",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m3-q6",
+      "level": "5-level",
+      "groupNumber": 3,
+      "groupLabel": "Module",
+      "questionNumber": 6,
+      "question": "Why is the DEERS check process crucial during patient registration?",
+      "choices": {
+        "a": "It updates the patient's contact information.",
+        "b": "It creates a new medical record for the patient.",
+        "c": "It validates the individual's eligibility for care and ensures accurate billing from Tricare.",
+        "d": "It assigns a primary care provider to the patient."
+      },
+      "correctAnswer": "c",
+      "correctText": "It validates the individual's eligibility for care and ensures accurate billing from Tricare.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m3-q7",
+      "level": "5-level",
+      "groupNumber": 3,
+      "groupLabel": "Module",
+      "questionNumber": 7,
+      "question": "The patient must not exist in DEERS if they are not found in Genesis.",
+      "choices": {
+        "a": "False",
+        "b": "True"
+      },
+      "correctAnswer": "a",
+      "correctText": "False",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m3-q8",
+      "level": "5-level",
+      "groupNumber": 3,
+      "groupLabel": "Module",
+      "questionNumber": 8,
+      "question": "Which application is used during the patient registration process?",
+      "choices": {
+        "a": "Dragon FirstNet",
+        "b": "Discern Reporting",
+        "c": "Revenue Cycle",
+        "d": "Power Chart"
+      },
+      "correctAnswer": "c",
+      "correctText": "Revenue Cycle",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m3-q9",
+      "level": "5-level",
+      "groupNumber": 3,
+      "groupLabel": "Module",
+      "questionNumber": 9,
+      "question": "Who makes the LOD determination on an AF Form 348?",
+      "choices": {
+        "a": "Military Medical Provider",
+        "b": "Immediate Commander",
+        "c": "LOD Program Manager",
+        "d": "Staff Judge Advocate"
+      },
+      "correctAnswer": "b",
+      "correctText": "Immediate Commander",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m3-q10",
+      "level": "5-level",
+      "groupNumber": 3,
+      "groupLabel": "Module",
+      "questionNumber": 10,
+      "question": "Who reviews the LOD package to ensure legal sufficiency?",
+      "choices": {
+        "a": "Chief Administrator",
+        "b": "Legal Advisor",
+        "c": "MTF Commander",
+        "d": "LOD Program Manager"
+      },
+      "correctAnswer": "b",
+      "correctText": "Legal Advisor",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q1",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 1,
+      "question": "After scanning a document into MHS GENESIS, what should be done if there are no additional documents to scan for that patient?",
+      "choices": {
+        "a": "Restart the computer to ensure the scanned document is saved correctly.",
+        "b": "Leave the \"Add/Modify Image\" window open until all patients' scans are complete.",
+        "c": "Click the \"Cancel\" button to discard the scanned document.",
+        "d": "Click the \"OK\" button to save the document and return to the patient's chart."
+      },
+      "correctAnswer": "d",
+      "correctText": "Click the \"OK\" button to save the document and return to the patient's chart.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q2",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 2,
+      "question": "Before a record can be retired, what types of documents from the electronic health record should be printed and added to the paper record?",
+      "choices": {
+        "a": "A summary of the patient's medical history, written by a physician.",
+        "b": "No electronic documents need to be printed; the paper record is sufficient.",
+        "c": "Only the patient's demographic information and insurance details.",
+        "d": "All documents, including AHL TA Web Print (AWP) retrievals, laboratory reports, and radiology reports."
+      },
+      "correctAnswer": "d",
+      "correctText": "All documents, including AHL TA Web Print (AWP) retrievals, laboratory reports, and radiology reports.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q3",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 3,
+      "question": "If an active-duty patient is identified as a reservist or guard member, what additional information should be researched to locate their medical record?",
+      "choices": {
+        "a": "Their rank and date of enlistment.",
+        "b": "Their blood type and allergy information.",
+        "c": "Their branch of service (Army, Navy, etc.).",
+        "d": "Their unit identification code (UIC)."
+      },
+      "correctAnswer": "d",
+      "correctText": "Their unit identification code (UIC).",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q4",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 4,
+      "question": "In addition to medical records, what other type of record is crucial for assembling a complete STR?",
+      "choices": {
+        "a": "Training records",
+        "b": "Financial records",
+        "c": "Personnel records",
+        "d": "Dental records"
+      },
+      "correctAnswer": "d",
+      "correctText": "Dental records",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q5",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 5,
+      "question": "In MHS GENESIS, how can a user access the image viewing and scanning functionality from a patient's chart?",
+      "choices": {
+        "a": "Navigate to the \"Imaging\" module from the home screen.",
+        "b": "Click the \"Documents\" tab, then select \"Scan New Image.\"",
+        "c": "Right-click on the patient's name and choose \"Manage Images.\"",
+        "d": "Select \"Patient\" from the menu bar, then choose \"View Images.\""
+      },
+      "correctAnswer": "d",
+      "correctText": "Select \"Patient\" from the menu bar, then choose \"View Images.\"",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q6",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 6,
+      "question": "What does it mean to \"sequester\" a medical record?",
+      "choices": {
+        "a": "To digitize a paper medical record for electronic storage",
+        "b": "To prepare the record for transfer to a different facility",
+        "c": "To flag the record as inactive for patients who are no longer receiving care",
+        "d": "To limit access to the record beyond normal precautions"
+      },
+      "correctAnswer": "d",
+      "correctText": "To limit access to the record beyond normal precautions",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q7",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 7,
+      "question": "What is meant by the term \"hybrid\" when referring to outpatient records in the DoD?",
+      "choices": {
+        "a": "Records are shared between military and civilian healthcare providers.",
+        "b": "Records are accessible by both the patient and healthcare providers.",
+        "c": "Records combine medical and dental information in a single file.",
+        "d": "Some records are kept in hard copy, while others are on an electronic platform."
+      },
+      "correctAnswer": "d",
+      "correctText": "Some records are kept in hard copy, while others are on an electronic platform.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q8",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 8,
+      "question": "What is the general rule for determining when a record can be retired based on the last date of treatment?",
+      "choices": {
+        "a": "Two years after the end of the calendar year of the last treatment date.",
+        "b": "Records can only be retired with written authorization from the patient.",
+        "c": "Five years after the patient's initial visit to the medical facility.",
+        "d": "One year after the last documented appointment, regardless of the treatment provided."
+      },
+      "correctAnswer": "a",
+      "correctText": "Two years after the end of the calendar year of the last treatment date.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q9",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 9,
+      "question": "What is the name of the technology used for scanner communication in the MHS GENESIS image scanning process?",
+      "choices": {
+        "a": "TWAIN (Technology Without an Important Name)",
+        "b": "SNOMED CT (Systematized Nomenclature of Medicine - Clinical Terms)",
+        "c": "DICOM (Digital Imaging and Communications in Medicine)",
+        "d": "HL7 (Health Level Seven International)"
+      },
+      "correctAnswer": "a",
+      "correctText": "TWAIN (Technology Without an Important Name)",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q10",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 10,
+      "question": "What is the timeframe for mailing an STR to the processing center after a member's retirement or separation date?",
+      "choices": {
+        "a": "Within one week of the retirement/separation date.",
+        "b": "There is no specific timeframe; records can be mailed at any time.",
+        "c": "No earlier than the retirement/separation date and no later than 30 days after.",
+        "d": "Within 60 days of the retirement/separation date."
+      },
+      "correctAnswer": "c",
+      "correctText": "No earlier than the retirement/separation date and no later than 30 days after.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q11",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 11,
+      "question": "What is the time frame for which a patient can request an accounting of disclosures of their protected health information?",
+      "choices": {
+        "a": "The past 12 months",
+        "b": "There is no limit on how far back a patient can request an accounting",
+        "c": "The previous 6 years back to April 14, 2003",
+        "d": "The entire time the patient has been treated at a specific medical facility"
+      },
+      "correctAnswer": "c",
+      "correctText": "The previous 6 years back to April 14, 2003",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q12",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 12,
+      "question": "What types of disclosures are NOT included in a patient's right to request an accounting of disclosures for the previous 6 years?",
+      "choices": {
+        "a": "Disclosures required by public health regulations",
+        "b": "Uses of PHI for treatment, payment, or healthcare operations",
+        "c": "Disclosures related to national security",
+        "d": "Disclosures authorized by a court order"
+      },
+      "correctAnswer": "b",
+      "correctText": "Uses of PHI for treatment, payment, or healthcare operations",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q13",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 13,
+      "question": "When a paper medical record is sequestered for a patient actively being seen in a clinic, what step must be taken to ensure continuity of care?",
+      "choices": {
+        "a": "The original record is made available to all clinic staff.",
+        "b": "Access to the record is restricted to physicians only.",
+        "c": "The record is transferred to a secure off-site location.",
+        "d": "A \"Clinic Copy\" of the record is created and maintained separately."
+      },
+      "correctAnswer": "d",
+      "correctText": "A \"Clinic Copy\" of the record is created and maintained separately.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q14",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 14,
+      "question": "When a patient receives ancillary or diagnostic care from a non-military source, what should be done with the documentation from that provider?",
+      "choices": {
+        "a": "It should be returned to the patient to keep with their personal records.",
+        "b": "It should be forwarded to the patient's insurance company.",
+        "c": "It should be filed in the patient's outpatient medical record at the MTF.",
+        "d": "It can be discarded, as it is not considered part of the official medical record."
+      },
+      "correctAnswer": "c",
+      "correctText": "It should be filed in the patient's outpatient medical record at the MTF.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q15",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 15,
+      "question": "When documenting a release of information in PHIMT, is it possible to save a copy of the original request for information?",
+      "choices": {
+        "a": "No, PHIMT does not have the functionality to store external documents.",
+        "b": "Yes, PHIMT provides an option to save the original request.",
+        "c": "The ability to save requests varies depending on the user's access level.",
+        "d": "Saving the request is only possible if it was submitted electronically."
+      },
+      "correctAnswer": "b",
+      "correctText": "Yes, PHIMT provides an option to save the original request.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q16",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 16,
+      "question": "Which AF Form is used as the outpatient health record \"jacket\"?",
+      "choices": {
+        "a": "AF Form 2100B",
+        "b": "AF Form 2700L",
+        "c": "AF Form 788",
+        "d": "AF Form 21 00A"
+      },
+      "correctAnswer": "d",
+      "correctText": "AF Form 21 00A",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q17",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 17,
+      "question": "Which of the following best describes a Service Treatment Record (STR)?",
+      "choices": {
+        "a": "A record documenting the medical and dental history of a member of the US military throughout their career.",
+        "b": "A record maintained by the Department of Veterans Affairs (VA) for processing benefits claims.",
+        "c": "A record specifically used for documenting workplace injuries and illnesses.",
+        "d": "A record of medical treatment provided to civilians and other non-military personnel."
+      },
+      "correctAnswer": "a",
+      "correctText": "A record documenting the medical and dental history of a member of the US military throughout their career.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q18",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 18,
+      "question": "Which of the following tasks is typically part of medical in-processing at an MTF?",
+      "choices": {
+        "a": "Filing medical claims on behalf of the patient.",
+        "b": "Providing legal advice regarding medical power of attorney.",
+        "c": "Providing information about TRICARE benefits and enrollment for the area.",
+        "d": "Conducting a complete physical examination of the patient."
+      },
+      "correctAnswer": "c",
+      "correctText": "Providing information about TRICARE benefits and enrollment for the area.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q19",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 19,
+      "question": "Who has the ultimate responsibility for ensuring the proper preparation, maintenance, use, protection, and control of health records within an MTF?",
+      "choices": {
+        "a": "The Chief of Medical Staff",
+        "b": "The lead records technician",
+        "c": "The MTF Commander or Director",
+        "d": "The HIPAA Privacy Officer"
+      },
+      "correctAnswer": "c",
+      "correctText": "The MTF Commander or Director",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m4-q20",
+      "level": "5-level",
+      "groupNumber": 4,
+      "groupLabel": "Module",
+      "questionNumber": 20,
+      "question": "Who legally owns a beneficiary's health records?",
+      "choices": {
+        "a": "The Medical Treatment Facility (MTF)",
+        "b": "The attending physician",
+        "c": "The patient",
+        "d": "The United States Government"
+      },
+      "correctAnswer": "d",
+      "correctText": "The United States Government",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m5-q1",
+      "level": "5-level",
+      "groupNumber": 5,
+      "groupLabel": "Module",
+      "questionNumber": 1,
+      "question": "Who must be contacted if an active-duty service member is admitted to the MTF, and their commander or commander's designee(s) cannot be reached?",
+      "choices": {
+        "a": "The member's installation SFS",
+        "b": "The member's installation Command Post",
+        "c": "The member's installation Commander",
+        "d": "The member's installation Chaplain"
+      },
+      "correctAnswer": "b",
+      "correctText": "The member's installation Command Post",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m5-q2",
+      "level": "5-level",
+      "groupNumber": 5,
+      "groupLabel": "Module",
+      "questionNumber": 2,
+      "question": "The Roster of Seriously IIINery Seriously Ill is known as AF Form __ _",
+      "choices": {
+        "a": "1403",
+        "b": "2870",
+        "c": "1304",
+        "d": "570"
+      },
+      "correctAnswer": "a",
+      "correctText": "1403",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m5-q3",
+      "level": "5-level",
+      "groupNumber": 5,
+      "groupLabel": "Module",
+      "questionNumber": 3,
+      "question": "The AF Form 1403 is prepared each day ___ to document status changes in SINS! patients.",
+      "choices": {
+        "a": "just after sunset",
+        "b": "just after the safety huddle",
+        "c": "just after noon",
+        "d": "just after midnight \u2022"
+      },
+      "correctAnswer": "d",
+      "correctText": "just after midnight \u2022",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m5-q4",
+      "level": "5-level",
+      "groupNumber": 5,
+      "groupLabel": "Module",
+      "questionNumber": 4,
+      "question": "The contents of the death package must be filled out in chronological order.",
+      "choices": {
+        "a": "False",
+        "b": "True"
+      },
+      "correctAnswer": "a",
+      "correctText": "False",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m5-q5",
+      "level": "5-level",
+      "groupNumber": 5,
+      "groupLabel": "Module",
+      "questionNumber": 5,
+      "question": "Legacy tracking systems for physical medical records are being replaced by ...",
+      "choices": {
+        "a": "PRT",
+        "b": "MHS GENESIS",
+        "c": "MRT",
+        "d": "PHIMT"
+      },
+      "correctAnswer": "a",
+      "correctText": "PRT",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m5-q6",
+      "level": "5-level",
+      "groupNumber": 5,
+      "groupLabel": "Module",
+      "questionNumber": 6,
+      "question": "Extended Ambulatory Records are maintained in ___ record folders.",
+      "choices": {
+        "a": "AF Form 788",
+        "b": "AF Form 2096",
+        "c": "AF Form 708",
+        "d": "AF Form 718"
+      },
+      "correctAnswer": "a",
+      "correctText": "AF Form 788",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m5-q7",
+      "level": "5-level",
+      "groupNumber": 5,
+      "groupLabel": "Module",
+      "questionNumber": 7,
+      "question": "An inpatient record at a teaching facility whose last treatment date was 31 March 2022 will be ready to retire in calendar year ...",
+      "choices": {
+        "a": "2032",
+        "b": "2027",
+        "c": "2023",
+        "d": "2025"
+      },
+      "correctAnswer": "b",
+      "correctText": "2027",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m5-q8",
+      "level": "5-level",
+      "groupNumber": 5,
+      "groupLabel": "Module",
+      "questionNumber": 8,
+      "question": "The newborn registration process is completed in which application?",
+      "choices": {
+        "a": "DEERS",
+        "b": "Master Patient Index",
+        "c": "Power Chart",
+        "d": "Revenue Cycle"
+      },
+      "correctAnswer": "d",
+      "correctText": "Revenue Cycle",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m5-q9",
+      "level": "5-level",
+      "groupNumber": 5,
+      "groupLabel": "Module",
+      "questionNumber": 9,
+      "question": "To whom are the personal effects of a deceased military patient typically sent?",
+      "choices": {
+        "a": "The nearest military chaplain.",
+        "b": "The local law enforcement agency.",
+        "c": "The appointed summary court officer.",
+        "d": "The deceased's family members."
+      },
+      "correctAnswer": "c",
+      "correctText": "The appointed summary court officer.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m5-q10",
+      "level": "5-level",
+      "groupNumber": 5,
+      "groupLabel": "Module",
+      "questionNumber": 10,
+      "question": "What is the primary purpose of establishing jurisdiction in a death case?",
+      "choices": {
+        "a": "To collect insurance information and process death benefits.",
+        "b": "To notify the next of kin and provide grief counseling.",
+        "c": "To assign blame for the death and initiate legal proceedings.",
+        "d": "To determine whether the Air Force medical examiner or the local examiner will handle identification, autopsy, and funeral arrangements."
+      },
+      "correctAnswer": "d",
+      "correctText": "To determine whether the Air Force medical examiner or the local examiner will handle identification, autopsy, and funeral arrangements.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m6-q1",
+      "level": "5-level",
+      "groupNumber": 6,
+      "groupLabel": "Module",
+      "questionNumber": 1,
+      "question": "Who is responsible for appointment the MTF PRAP monitor?",
+      "choices": {
+        "a": "Certifying officials",
+        "b": "Lead CMA",
+        "c": "Unit monitors",
+        "d": "MTF commander"
+      },
+      "correctAnswer": "d",
+      "correctText": "MTF commander",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m6-q2",
+      "level": "5-level",
+      "groupNumber": 6,
+      "groupLabel": "Module",
+      "questionNumber": 2,
+      "question": "Who can be considered a Competent Medical Authority (CMA)?",
+      "choices": {
+        "a": "Any U.S. citizen.",
+        "b": "Any licensed medical professional.",
+        "c": "Any healthcare provider in the U.S.",
+        "d": "U.S. military healthcare provider or U.S. Government employed healthcare provider."
+      },
+      "correctAnswer": "d",
+      "correctText": "U.S. military healthcare provider or U.S. Government employed healthcare provider.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m6-q3",
+      "level": "5-level",
+      "groupNumber": 6,
+      "groupLabel": "Module",
+      "questionNumber": 3,
+      "question": "What is the purpose of creating a new notification each time in the AGAM Menu?",
+      "choices": {
+        "a": "To maintain the member's personal schedule.",
+        "b": "To avoid overloading the system with multiple notifications.",
+        "c": "To ensure that the member's medical history is accurately recorded.",
+        "d": "To comply with the requirement of not modifying a previous notification."
+      },
+      "correctAnswer": "d",
+      "correctText": "To comply with the requirement of not modifying a previous notification.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m6-q4",
+      "level": "5-level",
+      "groupNumber": 6,
+      "groupLabel": "Module",
+      "questionNumber": 4,
+      "question": "Which Air Force nuclear reliability programs are included in the Personnel Reliability Assurance Program (PRAP)?",
+      "choices": {
+        "a": "Personnel Reliability Program (PRP) and Arming and Use of Force (AUoF)",
+        "b": "Nuclear Reliability Program (NRP) and Personnel Readiness Program (PRP)",
+        "c": "Security Assurance Program (SAP) and Defense Readiness Program (DRP)",
+        "d": "Personnel Assurance Program (PAP) and Defense Reliability Program (DRP)"
+      },
+      "correctAnswer": "a",
+      "correctText": "Personnel Reliability Program (PRP) and Arming and Use of Force (AUoF)",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m6-q5",
+      "level": "5-level",
+      "groupNumber": 6,
+      "groupLabel": "Module",
+      "questionNumber": 5,
+      "question": "Where is the Administrative Qualification Cell (AQC) located?",
+      "choices": {
+        "a": "Scott AFB, IL",
+        "b": "Randolph AFB, TX",
+        "c": "Lackland AFB, TX",
+        "d": "Langley AFB, VA"
+      },
+      "correctAnswer": "b",
+      "correctText": "Randolph AFB, TX",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m6-q6",
+      "level": "5-level",
+      "groupNumber": 6,
+      "groupLabel": "Module",
+      "questionNumber": 6,
+      "question": "How many calendar days must a Category 1 Discrepancy be reported from a PRP member's DAS?",
+      "choices": {
+        "a": "90",
+        "b": "30",
+        "c": "60",
+        "d": "45"
+      },
+      "correctAnswer": "b",
+      "correctText": "30",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m6-q7",
+      "level": "5-level",
+      "groupNumber": 6,
+      "groupLabel": "Module",
+      "questionNumber": 7,
+      "question": "Which system is expected to be fully deployed to all DoD sites for documenting PRP-related disclosures?",
+      "choices": {
+        "a": "AHLTA",
+        "b": "CHCS",
+        "c": "MHS Gensis",
+        "d": "PHIMT"
+      },
+      "correctAnswer": "c",
+      "correctText": "MHS Gensis",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m6-q8",
+      "level": "5-level",
+      "groupNumber": 6,
+      "groupLabel": "Module",
+      "questionNumber": 8,
+      "question": "What is the primary purpose of the personnel and medical record review for a member selected for PRP PCS assignment or in-place certification?",
+      "choices": {
+        "a": "Identifying potential promotions.",
+        "b": "Identifying any mandatory disqualification or decertification criteria.",
+        "c": "Reviewing educational qualifications.",
+        "d": "Ensuring proper uniform compliance."
+      },
+      "correctAnswer": "b",
+      "correctText": "Identifying any mandatory disqualification or decertification criteria.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m6-q9",
+      "level": "5-level",
+      "groupNumber": 6,
+      "groupLabel": "Module",
+      "questionNumber": 9,
+      "question": "What does the MTF PRAP Monitor treat an AF Form 286 requesting reinstatement as?",
+      "choices": {
+        "a": "A new certification",
+        "b": "A temporary duty assignment",
+        "c": "A routine update",
+        "d": "A request for retirement"
+      },
+      "correctAnswer": "a",
+      "correctText": "A new certification",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m6-q10",
+      "level": "5-level",
+      "groupNumber": 6,
+      "groupLabel": "Module",
+      "questionNumber": 10,
+      "question": "What is one of the key outcomes for medical screening and surveillance in the Presidential Support Duty Program?",
+      "choices": {
+        "a": "Guaranteeing all PSD members receive annual bonuses",
+        "b": "Optimized selection of Service Members without any disqualifying medical and psychological conditions",
+        "c": "Providing free healthcare to the President's family",
+        "d": "Ensuring all PSD members are proficient in a foreign language"
+      },
+      "correctAnswer": "b",
+      "correctText": "Optimized selection of Service Members without any disqualifying medical and psychological conditions",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m7-q1",
+      "level": "5-level",
+      "groupNumber": 7,
+      "groupLabel": "Module",
+      "questionNumber": 1,
+      "question": "002. Which of the following is NOT a component of the AE system?",
+      "choices": {
+        "a": "Scheduled commercial airline flights.",
+        "b": "Patient movement item (PMI) equipment",
+        "c": "AE liaison teams",
+        "d": "A communication network between airlift C2 agencies"
+      },
+      "correctAnswer": "a",
+      "correctText": "Scheduled commercial airline flights.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m7-q2",
+      "level": "5-level",
+      "groupNumber": 7,
+      "groupLabel": "Module",
+      "questionNumber": 2,
+      "question": "004. Which specialized medical team is NOT primarily focused on providing en route critical care transport capabilities?",
+      "choices": {
+        "a": "Special operations surgical teams",
+        "b": "Pararescue teams (limited critical care as a collateral mission)",
+        "c": "Critical Care Air Transport Teams (CCATTs)",
+        "d": "Aeromedical evacuation liaison teams."
+      },
+      "correctAnswer": "d",
+      "correctText": "Aeromedical evacuation liaison teams.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m7-q3",
+      "level": "5-level",
+      "groupNumber": 7,
+      "groupLabel": "Module",
+      "questionNumber": 3,
+      "question": "006. When should a PMR (AF Form 3899) be submitted?",
+      "choices": {
+        "a": "After the patient arrives at the destination medical facility.",
+        "b": "As soon as the need for patient movement is determined.",
+        "c": "Prior to the patient's initial medical evaluation.",
+        "d": "Within 72 hours of the patient's injury or illness."
+      },
+      "correctAnswer": "b",
+      "correctText": "As soon as the need for patient movement is determined.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m7-q4",
+      "level": "5-level",
+      "groupNumber": 7,
+      "groupLabel": "Module",
+      "questionNumber": 4,
+      "question": "008. Which of the following is NOT a standard attachment to the AF Form 3899?",
+      "choices": {
+        "a": "AF Form 3899A- Patient Movement Record.",
+        "b": "AF Form 38992 - Patient's Dietary Preferences.",
+        "c": "AF Form 3899C - Patient Movement Physical Assessment.",
+        "d": "AF Form 3899B - Patient Movement Physician Orders."
+      },
+      "correctAnswer": "b",
+      "correctText": "AF Form 38992 - Patient's Dietary Preferences.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m7-q5",
+      "level": "5-level",
+      "groupNumber": 7,
+      "groupLabel": "Module",
+      "questionNumber": 5,
+      "question": "010. What actions should be taken if a patient or attendant refuses to comply with anti-hijacking procedures?",
+      "choices": {
+        "a": "Attempt to persuade the individual to comply, and if unsuccessful, proceed with transport.",
+        "b": "Restrain the individual and proceed with transport.",
+        "c": "Do not transport the individual to the aircraft.",
+        "d": "Proceed with transport but notify security personnel upon arrival."
+      },
+      "correctAnswer": "c",
+      "correctText": "Do not transport the individual to the aircraft.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m7-q6",
+      "level": "5-level",
+      "groupNumber": 7,
+      "groupLabel": "Module",
+      "questionNumber": 6,
+      "question": "012. Who has the final authority for determining what items can be carried by/for AE patients on an AE mission?",
+      "choices": {
+        "a": "The senior medical attendant.",
+        "b": "The Medical Crew Director (MCD).",
+        "c": "The patient's attending physician.",
+        "d": "The Pilot in Command (PIC)."
+      },
+      "correctAnswer": "b",
+      "correctText": "The Medical Crew Director (MCD).",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m7-q7",
+      "level": "5-level",
+      "groupNumber": 7,
+      "groupLabel": "Module",
+      "questionNumber": 7,
+      "question": "014. Which of the following personnel are generally NOT authorized to carry weapons or ammunition on AE missions?",
+      "choices": {
+        "a": "RAVEN Team Members.",
+        "b": "Special agents.",
+        "c": "Medical attendants.",
+        "d": "Secret Service guards."
+      },
+      "correctAnswer": "c",
+      "correctText": "Medical attendants.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m7-q8",
+      "level": "5-level",
+      "groupNumber": 7,
+      "groupLabel": "Module",
+      "questionNumber": 8,
+      "question": "016. What is the initial step in requesting aeromedical evacuation for a patient?",
+      "choices": {
+        "a": "TRAC2ES assigns a mission for the patient's transport.",
+        "b": "The PMRC validates the PMR.",
+        "c": "The referring provider initiates a Patient Movement Request (PMR).",
+        "d": "The receiving facility accepts the patient for evacuation."
+      },
+      "correctAnswer": "c",
+      "correctText": "The referring provider initiates a Patient Movement Request (PMR).",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m7-q9",
+      "level": "5-level",
+      "groupNumber": 7,
+      "groupLabel": "Module",
+      "questionNumber": 9,
+      "question": "018. Which of the following does NOT typically use the TRAC2ES system?",
+      "choices": {
+        "a": "Headquarters of Joint Task Forces",
+        "b": "Fixed and deployed MTFs",
+        "c": "Civilian ambulance companies.",
+        "d": "PMRCs"
+      },
+      "correctAnswer": "c",
+      "correctText": "Civilian ambulance companies.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m7-q10",
+      "level": "5-level",
+      "groupNumber": 7,
+      "groupLabel": "Module",
+      "questionNumber": 10,
+      "question": "020. What is required for ROUTINE precedence moves to civilian facilities before PMR validation?",
+      "choices": {
+        "a": "A TRICARE authorization number for care.",
+        "b": "Approval from the patient's insurance company.",
+        "c": "A referral from the patient's primary care provider.",
+        "d": "A completed AF Form 3899K."
+      },
+      "correctAnswer": "a",
+      "correctText": "A TRICARE authorization number for care.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m8-q1",
+      "level": "5-level",
+      "groupNumber": 8,
+      "groupLabel": "Module",
+      "questionNumber": 1,
+      "question": "Members with an ALC who wish to volunteer for a deployment opportunity can deploy to some locations with a waiver.",
+      "choices": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "a",
+      "correctText": "True",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m8-q2",
+      "level": "5-level",
+      "groupNumber": 8,
+      "groupLabel": "Module",
+      "questionNumber": 2,
+      "question": "The Commander's Impact Statement for Medical Evaluation Board must be returned within how many days?",
+      "choices": {
+        "a": "5 duty days",
+        "b": "10 duty days",
+        "c": "7 calendar days",
+        "d": "5 calendar days"
+      },
+      "correctAnswer": "d",
+      "correctText": "5 calendar days",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m8-q3",
+      "level": "5-level",
+      "groupNumber": 8,
+      "groupLabel": "Module",
+      "questionNumber": 3,
+      "question": "What medical review may be completed when a member is pending separation, retirement, deployment, or assignment within 30 days?",
+      "choices": {
+        "a": "MRILO",
+        "b": "IRILO",
+        "c": "ARILO",
+        "d": "LOO"
+      },
+      "correctAnswer": "a",
+      "correctText": "MRILO",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m8-q4",
+      "level": "5-level",
+      "groupNumber": 8,
+      "groupLabel": "Module",
+      "questionNumber": 4,
+      "question": "The minimum requirements for an ARILO package include the following items, EXCEPT ...",
+      "choices": {
+        "a": "AF Form 469",
+        "b": "ARILO checklist",
+        "c": "AF Form 1185",
+        "d": "Previous Form Letters"
+      },
+      "correctAnswer": "c",
+      "correctText": "AF Form 1185",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m8-q5",
+      "level": "5-level",
+      "groupNumber": 8,
+      "groupLabel": "Module",
+      "questionNumber": 5,
+      "question": "Use of the ___ prevents the government from permanently retiring a member who may partially or fully recover at a later date.",
+      "choices": {
+        "a": "ARILO",
+        "b": "IDES",
+        "c": "MEB",
+        "d": "TDRL"
+      },
+      "correctAnswer": "d",
+      "correctText": "TDRL",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m8-q6",
+      "level": "5-level",
+      "groupNumber": 8,
+      "groupLabel": "Module",
+      "questionNumber": 6,
+      "question": "Who makes the determination that a member requires a Medical Evaluation Board?",
+      "choices": {
+        "a": "AFPC/DPMNR",
+        "b": "AMRO Board",
+        "c": "Chief of Medical Staff",
+        "d": "Medical Readiness Committee"
+      },
+      "correctAnswer": "a",
+      "correctText": "AFPC/DPMNR",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m8-q7",
+      "level": "5-level",
+      "groupNumber": 8,
+      "groupLabel": "Module",
+      "questionNumber": 7,
+      "question": "The Legacy Disability Evaluation System allows service members to start VA claims while still serving on active duty.",
+      "choices": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "b",
+      "correctText": "False",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m8-q8",
+      "level": "5-level",
+      "groupNumber": 8,
+      "groupLabel": "Module",
+      "questionNumber": 8,
+      "question": "In the IPEB package, an updated Commander's Impact Statement is required if it's older than ...",
+      "choices": {
+        "a": "60 days",
+        "b": "90 days",
+        "c": "120 days",
+        "d": "180 days"
+      },
+      "correctAnswer": "d",
+      "correctText": "180 days",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m8-q9",
+      "level": "5-level",
+      "groupNumber": 8,
+      "groupLabel": "Module",
+      "questionNumber": 9,
+      "question": "Service members have ___ days to concur or non-concur with IPEB and FPEB findings, using the AF Form 1180.",
+      "choices": {
+        "a": "5 duty",
+        "b": "6 calendar",
+        "c": "3 calendar",
+        "d": "7 calendar"
+      },
+      "correctAnswer": "b",
+      "correctText": "6 calendar",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m8-q10",
+      "level": "5-level",
+      "groupNumber": 8,
+      "groupLabel": "Module",
+      "questionNumber": 10,
+      "question": "Who retains authority to remove ALC-C codes?",
+      "choices": {
+        "a": "PEBLO",
+        "b": "MTF Directors",
+        "c": "AFPC/DPMNR",
+        "d": "Installation Commanders"
+      },
+      "correctAnswer": "c",
+      "correctText": "AFPC/DPMNR",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q1",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 1,
+      "question": "An Installation Deployment Plan (IDP) must be revised after which of the following events?",
+      "choices": {
+        "a": "The implementation of a new electronic health record system.",
+        "b": "A decrease in the number of patients seen at the MTF.",
+        "c": "A major change in manpower or equipment authorizations for a deploying unit.",
+        "d": "A change in command at the MTF."
+      },
+      "correctAnswer": "c",
+      "correctText": "A major change in manpower or equipment authorizations for a deploying unit.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q2",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 2,
+      "question": "How are readiness assessments expressed in DRRS?",
+      "choices": {
+        "a": "Yes, Qualified Yes, or No.",
+        "b": "As a narrative description.",
+        "c": "As a percentage of completion.",
+        "d": "On a scale of 1 to 10."
+      },
+      "correctAnswer": "a",
+      "correctText": "Yes, Qualified Yes, or No.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q3",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 3,
+      "question": "How many Force Elements (FEs) are there in the AFFORGEN model?",
+      "choices": {
+        "a": "Two",
+        "b": "Six",
+        "c": "Three",
+        "d": "Four"
+      },
+      "correctAnswer": "d",
+      "correctText": "Four",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q4",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 4,
+      "question": "How often are installations typically required to update both Part I and Part II of the Base Support Plan (BSP)?",
+      "choices": {
+        "a": "As needed.",
+        "b": "Quarterly.",
+        "c": "Annually.",
+        "d": "At least biennially."
+      },
+      "correctAnswer": "c",
+      "correctText": "Annually.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q5",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 5,
+      "question": "How often should the Installation Emergency Management Plan be reviewed and updated?",
+      "choices": {
+        "a": "Quarterly",
+        "b": "Biennially",
+        "c": "Annually",
+        "d": "As needed"
+      },
+      "correctAnswer": "c",
+      "correctText": "Annually",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q6",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 6,
+      "question": "The Air Force Planning Process (AFPP) helps commanders do which of the following?",
+      "choices": {
+        "a": "Focus solely on short-term operational needs, neglecting long-term strategic goals.",
+        "b": "Delegate planning responsibilities entirely to subordinate units.",
+        "c": "Minimize collaboration with other units and agencies to maintain operational secrecy.",
+        "d": "Understand situations, develop options, and reach decisions using sound judgment and logic."
+      },
+      "correctAnswer": "d",
+      "correctText": "Understand situations, develop options, and reach decisions using sound judgment and logic.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q7",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 7,
+      "question": "What are the four distinct components of the Air Force Lessons Learned Process?",
+      "choices": {
+        "a": "Identification, Prioritization, Mitigation, and Closure.",
+        "b": "Observation, Analysis, Implementation, and Evaluation.",
+        "c": "Collection, Validation, Dissemination, and Resolution.",
+        "d": "Planning, Execution, Assessment, and Adjustment."
+      },
+      "correctAnswer": "c",
+      "correctText": "Collection, Validation, Dissemination, and Resolution.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q8",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 8,
+      "question": "What is APACS, and what is it used for?",
+      "choices": {
+        "a": "A software application for managing travel expenses and reimbursements.",
+        "b": "A database of medical records for deployed personnel.",
+        "c": "A system for tracking the deployment status of military personnel.",
+        "d": "A web-based tool for processing official travel clearances for all DoD travelers."
+      },
+      "correctAnswer": "d",
+      "correctText": "A web-based tool for processing official travel clearances for all DoD travelers.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q9",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 9,
+      "question": "What is the purpose of the Foreign Clearance Guide (FCG)?",
+      "choices": {
+        "a": "To provide language training for deploying personnel.",
+        "b": "To provide information about tourist attractions and recreational activities at overseas locations.",
+        "c": "To outline the requirements for all DoD-related travel abroad.",
+        "d": "To explain the process for shipping personal belongings overseas."
+      },
+      "correctAnswer": "c",
+      "correctText": "To outline the requirements for all DoD-related travel abroad.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q10",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 10,
+      "question": "What type of MRDSS account is required to create or modify user accounts and manage access permissions?",
+      "choices": {
+        "a": "Neither admin nor regular user accounts",
+        "b": "Admin account",
+        "c": "Both admin and regular user accounts",
+        "d": "Regular user account"
+      },
+      "correctAnswer": "b",
+      "correctText": "Admin account",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q11",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 11,
+      "question": "Which Air Force Instruction (AFI) governs UTC management?",
+      "choices": {
+        "a": "AFI 10-401, Air Force Operations Planning and Execution.",
+        "b": "AFI 41-106, Medical Readiness Program Management.",
+        "c": "AFI 36-2110, Air Force Assignments.",
+        "d": "AFI 10-244, Personnel Deployment Function."
+      },
+      "correctAnswer": "a",
+      "correctText": "AFI 10-401, Air Force Operations Planning and Execution.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q12",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 12,
+      "question": "Which classification level is applied to information that could cause exceptionally grave damage to national security if disclosed without authorization?",
+      "choices": {
+        "a": "Secret",
+        "b": "Confidential",
+        "c": "Top Secret",
+        "d": "Restricted"
+      },
+      "correctAnswer": "c",
+      "correctText": "Top Secret",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q13",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 13,
+      "question": "Which of the following activities is NOT typically performed at a PDF?",
+      "choices": {
+        "a": "Monitoring personnel processing activities, including eligibility screening and orders preparation.",
+        "b": "Establishing a controlled area to account for deploying personnel.",
+        "c": "Providing \"by exception\" personnel services (legal, chaplain, medical, etc.).",
+        "d": "Conducting in-depth psychological evaluations of deploying personnel."
+      },
+      "correctAnswer": "d",
+      "correctText": "Conducting in-depth psychological evaluations of deploying personnel.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q14",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 14,
+      "question": "Which of the following is NOT a standard element of a SITREP?",
+      "choices": {
+        "a": "Reporting Unit",
+        "b": "The author's opinion on the situation.",
+        "c": "Point of Contact (POC)",
+        "d": "Date/Time Group (DTG)"
+      },
+      "correctAnswer": "b",
+      "correctText": "The author's opinion on the situation.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q15",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 15,
+      "question": "Which of the following is NOT a typical component of CMRP training?",
+      "choices": {
+        "a": "Financial management and budgeting.",
+        "b": "Deployment-specific training.",
+        "c": "Core medical skills training.",
+        "d": "Scenario-based training."
+      },
+      "correctAnswer": "a",
+      "correctText": "Financial management and budgeting.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q16",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 16,
+      "question": "Which phase marks the beginning two-year AFFORGEN cycle?",
+      "choices": {
+        "a": "COMMIT",
+        "b": "CERTIFY",
+        "c": "PREPARE",
+        "d": "RESET"
+      },
+      "correctAnswer": "d",
+      "correctText": "RESET",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q17",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 17,
+      "question": "Which system is the authoritative data source for the training calculations tab in the DRRS resource readiness report?",
+      "choices": {
+        "a": "CRIS (Commander's Resource Integration System)",
+        "b": "DMHRSi (Defense Medical Human Resources System internet)",
+        "c": "MRDSS (Medical Readiness Decision Support System)",
+        "d": "DMLSS (Defense Medical Logistics Standard Support)"
+      },
+      "correctAnswer": "c",
+      "correctText": "MRDSS (Medical Readiness Decision Support System)",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q18",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 18,
+      "question": "Who is responsible for selecting a replacement for a vacant Unit Type Code (UTC) position created by a PCS?",
+      "choices": {
+        "a": "The Medical Readiness Office.",
+        "b": "The Air Force Personnel Center.",
+        "c": "The unit commander.",
+        "d": "The outgoing member."
+      },
+      "correctAnswer": "c",
+      "correctText": "The unit commander.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q19",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 19,
+      "question": "Who is typically responsible for leading the MCRP development process?",
+      "choices": {
+        "a": "The Emergency Management Officer (EMO).",
+        "b": "The MTF Commander.",
+        "c": "The Medical Readiness Officer (MRO).",
+        "d": "The Security Forces Representative."
+      },
+      "correctAnswer": "c",
+      "correctText": "The Medical Readiness Officer (MRO).",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m9-q20",
+      "level": "5-level",
+      "groupNumber": 9,
+      "groupLabel": "Module",
+      "questionNumber": 20,
+      "question": "Within what timeframe should in-garrison after-action reports be compiled by the Medical Readiness Office if medical inputs are not included in the installation-level report?",
+      "choices": {
+        "a": "30 days of the event.",
+        "b": "90 days of the event.",
+        "c": "60 days of the event.",
+        "d": "There is no specific timeframe."
+      },
+      "correctAnswer": "a",
+      "correctText": "30 days of the event.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q1",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 1,
+      "question": "Are Foreign Military Personnel (FMP) and their dependents eligible to enroll in TRICARE Prime or purchase TRICARE Dental Plan coverage?",
+      "choices": {
+        "a": "They are only eligible for TRI CARE Prime, but not the dental plan.",
+        "b": "No, they are not eligible for these TRI CARE programs.",
+        "c": "They are only eligible for the TRICARE Dental Plan, but not TRICARE Prime.",
+        "d": "Yes, they are eligible for all TRICARE programs."
+      },
+      "correctAnswer": "b",
+      "correctText": "No, they are not eligible for these TRI CARE programs.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q2",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 2,
+      "question": "How many calendar days does an MTF typically have after each data month to reconcile and allocate MEPRS data in the Expense Assignment System (EAS IV)?",
+      "choices": {
+        "a": "Up to 60 days.",
+        "b": "Up to 30 days.",
+        "c": "Up to 45 days.",
+        "d": "Up to 15 days."
+      },
+      "correctAnswer": "c",
+      "correctText": "Up to 45 days.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q3",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 3,
+      "question": "How often is the FYDP typically updated?",
+      "choices": {
+        "a": "Two or three times per year.",
+        "b": "Once per year.",
+        "c": "Every other year.",
+        "d": "Only when there are significant changes in national security priorities."
+      },
+      "correctAnswer": "a",
+      "correctText": "Two or three times per year.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q4",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 4,
+      "question": "What action is required for questions answered \"No\" or below standard on the DQMC Review List?",
+      "choices": {
+        "a": "A verbal explanation to the committee is sufficient.",
+        "b": "An action plan with issue, solution, and get-well date is needed.",
+        "c": "A formal memo explaining the discrepancy is required.",
+        "d": "A corrective action plan must be submitted to the regional office."
+      },
+      "correctAnswer": "b",
+      "correctText": "An action plan with issue, solution, and get-well date is needed.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q5",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 5,
+      "question": "What constitutes Total Obligation Authority (TOA) for an MTF?",
+      "choices": {
+        "a": "The total amount of funds requested in the initial budget proposal.",
+        "b": "The amount of funds remaining at the end of the fiscal year.",
+        "c": "Direct obligation authority plus accepted reimbursable orders.",
+        "d": "The amount of funds transferred from other government agencies."
+      },
+      "correctAnswer": "c",
+      "correctText": "Direct obligation authority plus accepted reimbursable orders.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q6",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 6,
+      "question": "What does the acronym UOO stand for in the context of government budget obligations?",
+      "choices": {
+        "a": "Unpaid Obligations Owed",
+        "b": "Undelivered Orders Outstanding",
+        "c": "Units of Obligated Outlay",
+        "d": "Utilized Operating Obligations"
+      },
+      "correctAnswer": "b",
+      "correctText": "Undelivered Orders Outstanding",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q7",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 7,
+      "question": "What does the AEU stage represent in government accounting?",
+      "choices": {
+        "a": "Goods or services have been received, but the invoice has not yet been processed.",
+        "b": "Funds have been committed, but no order has been placed.",
+        "c": "The vendor has been paid, but the goods or services have not yet been received.",
+        "d": "The order has been placed, but the goods or services have not yet been received."
+      },
+      "correctAnswer": "a",
+      "correctText": "Goods or services have been received, but the invoice has not yet been processed.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q8",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 8,
+      "question": "What is the name of the five-year period covered by the DoD's fiscal planning and budgeting process?",
+      "choices": {
+        "a": "Fiscal Guidance",
+        "b": "Program Budget Decision (PBD)",
+        "c": "Future Years Defense Program (FYDP)",
+        "d": "Budget Year Execution (BYE)"
+      },
+      "correctAnswer": "c",
+      "correctText": "Future Years Defense Program (FYDP)",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q9",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 9,
+      "question": "What is the primary advantage of the PPBE process for the DoD?",
+      "choices": {
+        "a": "Guarantees that all military branches receive equal funding.",
+        "b": "Eliminates the need for Congressional approval of the defense budget.",
+        "c": "Simplifies the budget process by focusing on a single fiscal year.",
+        "d": "Multi-year analysis and planning, aligning resources with national security objectives."
+      },
+      "correctAnswer": "d",
+      "correctText": "Multi-year analysis and planning, aligning resources with national security objectives.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q10",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 10,
+      "question": "What is the primary goal of reconciling the Joint Table of Distribution (JTD) and Unit Manpower Document (UMD)?",
+      "choices": {
+        "a": "To determine the budget allocation for each unit.",
+        "b": "To track the deployment status of military personnel.",
+        "c": "To ensure that the two documents have consistent and accurate manpower data.",
+        "d": "To identify personnel who are eligible for promotion."
+      },
+      "correctAnswer": "c",
+      "correctText": "To ensure that the two documents have consistent and accurate manpower data.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q11",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 11,
+      "question": "What is the primary purpose of the Program Objective Memorandum (POM)?",
+      "choices": {
+        "a": "To track the performance metrics of healthcare providers.",
+        "b": "To document patient complaints and grievances.",
+        "c": "To request funding for specific medical procedures and treatments.",
+        "d": "To show how a military department or program plans to allocate resources in support of strategic objectives."
+      },
+      "correctAnswer": "d",
+      "correctText": "To show how a military department or program plans to allocate resources in support of strategic objectives.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q12",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 12,
+      "question": "What is the primary purpose of using standard documents like the DD Form 1131 and SF 215 when depositing medical reimbursement funds?",
+      "choices": {
+        "a": "To reduce the risk of audits by external agencies.",
+        "b": "To simplify the process of collecting payments from patients.",
+        "c": "To streamline the process of purchasing medical supplies.",
+        "d": "To ensure accurate accounting and proper allocation of funds to the correct accounts."
+      },
+      "correctAnswer": "d",
+      "correctText": "To ensure accurate accounting and proper allocation of funds to the correct accounts.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q13",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 13,
+      "question": "What is the purpose of a Command-Level MOA?",
+      "choices": {
+        "a": "To define the limits of support agreements between subordinate units of MAJCOMs or equivalent commands.",
+        "b": "To establish reimbursement rates for medical services provided between MTFs.",
+        "c": "To standardize medical training and education across the Air Force.",
+        "d": "To outline the responsibilities of medical personnel during deployments."
+      },
+      "correctAnswer": "a",
+      "correctText": "To define the limits of support agreements between subordinate units of MAJCOMs or equivalent commands.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q14",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 14,
+      "question": "What is the purpose of the monthly reports generated using Resource Planning tools?",
+      "choices": {
+        "a": "To manage the budget and maintain spending within a 5% variance standard.",
+        "b": "To forecast patient volume and staffing needs.",
+        "c": "To track the progress of construction projects within the MTF.",
+        "d": "To report on the usage of medical supplies and equipment."
+      },
+      "correctAnswer": "a",
+      "correctText": "To manage the budget and maintain spending within a 5% variance standard.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q15",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 15,
+      "question": "When determining rates for military medical claims, which step involves examining approved rates for various procedures and services?",
+      "choices": {
+        "a": "Updating the billing system.",
+        "b": "Gathering necessary information.",
+        "c": "Consulting with subject matter experts.",
+        "d": "Reviewing the fee schedules."
+      },
+      "correctAnswer": "d",
+      "correctText": "Reviewing the fee schedules.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q16",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 16,
+      "question": "When do end-of-year close-out activities for an MTF's budget typically begin?",
+      "choices": {
+        "a": "The last month of the fiscal year (September).",
+        "b": "The beginning of the calendar year (January 1st).",
+        "c": "After the budget has been approved by Congress.",
+        "d": "The first day of the fiscal year (October 1st)."
+      },
+      "correctAnswer": "d",
+      "correctText": "The first day of the fiscal year (October 1st).",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q17",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 17,
+      "question": "When is DD Form 448 used?",
+      "choices": {
+        "a": "To order medical supplies.",
+        "b": "To track payments to vendors.",
+        "c": "To request goods or services from another DoD agency.",
+        "d": "To request repairs to equipment."
+      },
+      "correctAnswer": "c",
+      "correctText": "To request goods or services from another DoD agency.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q18",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 18,
+      "question": "When is the deadline for submitting TPCP quarterly performance metrics to the DHA UBO Metrics Report?",
+      "choices": {
+        "a": "Within 30 calendar days following each quarter.",
+        "b": "On a monthly basis.",
+        "c": "Within 60 calendar days following each quarter.",
+        "d": "At the end of the fiscal year."
+      },
+      "correctAnswer": "a",
+      "correctText": "Within 30 calendar days following each quarter.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q19",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 19,
+      "question": "Which document serves as the primary manpower tool, showing an organization's authorized personnel positions?",
+      "choices": {
+        "a": "Unit Manpower Document (UMD)",
+        "b": "Unit Personnel Management Roster (UPMR)",
+        "c": "Authorization Change Request (ACR)",
+        "d": "Joint Table of Distribution (JTD)"
+      },
+      "correctAnswer": "a",
+      "correctText": "Unit Manpower Document (UMD)",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m10-q20",
+      "level": "5-level",
+      "groupNumber": 10,
+      "groupLabel": "Module",
+      "questionNumber": 20,
+      "question": "Which entity is responsible for asserting, pursuing, and settling MAC claims?",
+      "choices": {
+        "a": "The patient's commander.",
+        "b": "The Medical Cost Reimbursement Program (MCRP) regional manager.",
+        "c": "The Uniform Business Office (UBO).",
+        "d": "The Judge Advocate General (JAG) office."
+      },
+      "correctAnswer": "c",
+      "correctText": "The Uniform Business Office (UBO).",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m11-q1",
+      "level": "5-level",
+      "groupNumber": 11,
+      "groupLabel": "Module",
+      "questionNumber": 1,
+      "question": "To add drop-down menus to your BLSDM report in Microsoft Excel, you must highlight the row of categories and select this Excel button:",
+      "choices": {
+        "a": "Format as Table",
+        "b": "Conditional Formatting",
+        "c": "Find & Select",
+        "d": "Sort & Filter"
+      },
+      "correctAnswer": "d",
+      "correctText": "Sort & Filter",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m11-q2",
+      "level": "5-level",
+      "groupNumber": 11,
+      "groupLabel": "Module",
+      "questionNumber": 2,
+      "question": "All issues with personnel records or pay must FIRST be submitted through the Case Management System (CMS).",
+      "choices": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "b",
+      "correctText": "False",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m11-q3",
+      "level": "5-level",
+      "groupNumber": 11,
+      "groupLabel": "Module",
+      "questionNumber": 3,
+      "question": "Members may check their own CMS case status through which application?",
+      "choices": {
+        "a": "BLSDM",
+        "b": "AMS",
+        "c": "PROA",
+        "d": "vMPF"
+      },
+      "correctAnswer": "d",
+      "correctText": "vMPF",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m11-q4",
+      "level": "5-level",
+      "groupNumber": 11,
+      "groupLabel": "Module",
+      "questionNumber": 4,
+      "question": "The CSS provides new members with the Gain Individual Assignment Worksheet when in-processing.",
+      "choices": {
+        "a": "False",
+        "b": "True"
+      },
+      "correctAnswer": "a",
+      "correctText": "False",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m11-q5",
+      "level": "5-level",
+      "groupNumber": 11,
+      "groupLabel": "Module",
+      "questionNumber": 5,
+      "question": "Prior to retiring, members must update their Servicemembers' Group Life Insurance.",
+      "choices": {
+        "a": "False",
+        "b": "True"
+      },
+      "correctAnswer": "b",
+      "correctText": "True",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m11-q6",
+      "level": "5-level",
+      "groupNumber": 11,
+      "groupLabel": "Module",
+      "questionNumber": 6,
+      "question": "The leave type for House Hunting is ...",
+      "choices": {
+        "a": "Permissive",
+        "b": "Convalescent",
+        "c": "Terminal",
+        "d": "Ordinary"
+      },
+      "correctAnswer": "a",
+      "correctText": "Permissive",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m11-q7",
+      "level": "5-level",
+      "groupNumber": 11,
+      "groupLabel": "Module",
+      "questionNumber": 7,
+      "question": "Which type of LOE is mandatory?",
+      "choices": {
+        "a": "Supplemental",
+        "b": "Informal",
+        "c": "Formal",
+        "d": "Administrative"
+      },
+      "correctAnswer": "c",
+      "correctText": "Formal",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m11-q8",
+      "level": "5-level",
+      "groupNumber": 11,
+      "groupLabel": "Module",
+      "questionNumber": 8,
+      "question": "The WAPS Test Verification is also known as the AF Form ...",
+      "choices": {
+        "a": "1556",
+        "b": "1466",
+        "c": "1566",
+        "d": "1666"
+      },
+      "correctAnswer": "c",
+      "correctText": "1566",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m11-q9",
+      "level": "5-level",
+      "groupNumber": 11,
+      "groupLabel": "Module",
+      "questionNumber": 9,
+      "question": "Which of the following mail services offers the most security?",
+      "choices": {
+        "a": "Priority",
+        "b": "Certified",
+        "c": "Express",
+        "d": "Registered"
+      },
+      "correctAnswer": "d",
+      "correctText": "Registered",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "5l-m11-q10",
+      "level": "5-level",
+      "groupNumber": 11,
+      "groupLabel": "Module",
+      "questionNumber": 10,
+      "question": "Once notified, members have ___ to report to Drug Demand Reduction from the time acknowledged on their memorandum.",
+      "choices": {
+        "a": "3 hours",
+        "b": "2 hours",
+        "c": "30 minutes",
+        "d": "1 hour"
+      },
+      "correctAnswer": "b",
+      "correctText": "2 hours",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": null,
+      "sourcePageRange": null
+    },
+    {
+      "id": "7l-l001-q1",
+      "level": "7-level",
+      "groupNumber": 1,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "What is the appropriate access-to-care standard for wellness and health promotions appointments?",
+      "choices": {
+        "a": "24 hours.",
+        "b": "48 hours.",
+        "c": "7 days.",
+        "d": "28 days."
+      },
+      "correctAnswer": "d",
+      "correctText": "28 days.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "001",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l001-q2",
+      "level": "7-level",
+      "groupNumber": 1,
+      "groupLabel": "Lesson",
+      "questionNumber": 2,
+      "question": "Which is not a benefit of using the OA model for booking appointments?",
+      "choices": {
+        "a": "Timely access to care.",
+        "b": "Increased patient no-show and cancellation rates.",
+        "c": "Increased provider schedule flexibility.",
+        "d": "Enhanced patient trust."
+      },
+      "correctAnswer": "b",
+      "correctText": "Increased patient no-show and cancellation rates.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "001",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l001-q3",
+      "level": "7-level",
+      "groupNumber": 1,
+      "groupLabel": "Lesson",
+      "questionNumber": 3,
+      "question": "How often is the P2R2 access metric updated by the MTF point of contact?",
+      "choices": {
+        "a": "Monthly.",
+        "b": "Quarterly.",
+        "c": "Annually.",
+        "d": "Semi-annually."
+      },
+      "correctAnswer": "a",
+      "correctText": "Monthly.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "001",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l001-q4",
+      "level": "7-level",
+      "groupNumber": 1,
+      "groupLabel": "Lesson",
+      "questionNumber": 4,
+      "question": "Which report provides a preview of the availability of appointments by appointment type and by provider within a clinic on a given date and time?",
+      "choices": {
+        "a": "Clinic Workload Report.",
+        "b": "Next Available Appointment Report.",
+        "c": "Non-show Statistical Report.",
+        "d": "Patient Cancellation Statistical Report."
+      },
+      "correctAnswer": "b",
+      "correctText": "Next Available Appointment Report.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "001",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l001-q5",
+      "level": "7-level",
+      "groupNumber": 1,
+      "groupLabel": "Lesson",
+      "questionNumber": 5,
+      "question": "Who generates the CHCS access to care summary reports weekly?",
+      "choices": {
+        "a": "MAJCOM.",
+        "b": "TOC.",
+        "c": "AFMS.",
+        "d": "DOD."
+      },
+      "correctAnswer": "b",
+      "correctText": "TOC.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "001",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l001-q6",
+      "level": "7-level",
+      "groupNumber": 1,
+      "groupLabel": "Lesson",
+      "questionNumber": 6,
+      "question": "Who uses the TAT to evaluate scheduling adequacy and sufficiency of a MTF\u2019s schedules and templates in support of TRICARE Prime access standards?",
+      "choices": {
+        "a": "MAJCOM.",
+        "b": "MTF.",
+        "c": "USAF.",
+        "d": "DOD."
+      },
+      "correctAnswer": "b",
+      "correctText": "MTF.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "001",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l001-q7",
+      "level": "7-level",
+      "groupNumber": 1,
+      "groupLabel": "Lesson",
+      "questionNumber": 7,
+      "question": "What tool was developed to ease the burden of analyzing data from the many reports available in the CHCS?",
+      "choices": {
+        "a": "AIM.",
+        "b": "Balanced Scorecard.",
+        "c": "Commander\u2019s Guide to Access Success.",
+        "d": "TOC. 1-28"
+      },
+      "correctAnswer": "a",
+      "correctText": "AIM.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "001",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l002-q1",
+      "level": "7-level",
+      "groupNumber": 2,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "Which is not a responsibility of the TRO?",
+      "choices": {
+        "a": "Address enrollment issues.",
+        "b": "Approve MOUs with the contractor.",
+        "c": "Establish TRICARE provider networks.",
+        "d": "Monitor customer satisfaction outcomes."
+      },
+      "correctAnswer": "c",
+      "correctText": "Establish TRICARE provider networks.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "002",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l003-q1",
+      "level": "7-level",
+      "groupNumber": 3,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "Where do MCS contractors and TRO receive overall guidance?",
+      "choices": {
+        "a": "AFMS.",
+        "b": "DOD.",
+        "c": "MTF commander.",
+        "d": "TMA."
+      },
+      "correctAnswer": "d",
+      "correctText": "TMA.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "003",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l004-q1",
+      "level": "7-level",
+      "groupNumber": 4,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "Who is responsible for ensuring the MCS contractor performs the technical aspects of the contract?",
+      "choices": {
+        "a": "MTF commander.",
+        "b": "TRICARE.",
+        "c": "COTR.",
+        "d": "TRO."
+      },
+      "correctAnswer": "c",
+      "correctText": "COTR.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "004",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l004-q2",
+      "level": "7-level",
+      "groupNumber": 4,
+      "groupLabel": "Lesson",
+      "questionNumber": 2,
+      "question": "The COTR will verify contractor\u2019s records regarding licensure, certification, and education remain current, and will post all changes to the",
+      "choices": {
+        "a": "COR database.",
+        "b": "Base bulletin board.",
+        "c": "TRICARE website.",
+        "d": "DEERS database."
+      },
+      "correctAnswer": "a",
+      "correctText": "COR database.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "004",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l004-q3",
+      "level": "7-level",
+      "groupNumber": 4,
+      "groupLabel": "Lesson",
+      "questionNumber": 3,
+      "question": "Which is not a purpose of the COTR contacts?",
+      "choices": {
+        "a": "Advise MTF commander on contract matters.",
+        "b": "Evaluate managed care support contractor performance.",
+        "c": "Ensure adequate standards of care.",
+        "d": "Resolve contract problems."
+      },
+      "correctAnswer": "c",
+      "correctText": "Ensure adequate standards of care.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "004",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l005-q1",
+      "level": "7-level",
+      "groupNumber": 5,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "Supplement services provided at MTF are an example of which type of resource sharing?",
+      "choices": {
+        "a": "Primary.",
+        "b": "External.",
+        "c": "Internal.",
+        "d": "Secondary."
+      },
+      "correctAnswer": "c",
+      "correctText": "Internal.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "005",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l005-q2",
+      "level": "7-level",
+      "groupNumber": 5,
+      "groupLabel": "Lesson",
+      "questionNumber": 2,
+      "question": "Who provides the contractor with written approval/disapproval within 30 days of receipt of a resource-sharing agreement signed by the MTF commander and the contractor?",
+      "choices": {
+        "a": "COTR.",
+        "b": "MTF commander.",
+        "c": "Staff Judge Advocate.",
+        "d": "TRO."
+      },
+      "correctAnswer": "d",
+      "correctText": "TRO.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "005",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l006-q1",
+      "level": "7-level",
+      "groupNumber": 6,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "How often will the MCS contractor submit a revised resource sharing plan to the TRO?",
+      "choices": {
+        "a": "Quarterly.",
+        "b": "Semi-annually.",
+        "c": "Annually.",
+        "d": "Upon change of contract requirements. 1-29"
+      },
+      "correctAnswer": "c",
+      "correctText": "Annually.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "006",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l006-q2",
+      "level": "7-level",
+      "groupNumber": 6,
+      "groupLabel": "Lesson",
+      "questionNumber": 2,
+      "question": "What policy states that the DOD and the VA will enter into direct care sharing agreements?",
+      "choices": {
+        "a": "AFMS.",
+        "b": "DOD.",
+        "c": "MHS.",
+        "d": "TRICARE."
+      },
+      "correctAnswer": "b",
+      "correctText": "DOD.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "006",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l006-q3",
+      "level": "7-level",
+      "groupNumber": 6,
+      "groupLabel": "Lesson",
+      "questionNumber": 3,
+      "question": "Who will implement a formal DOD/VA Health Care Resource Sharing Program?",
+      "choices": {
+        "a": "TRO.",
+        "b": "TMA director.",
+        "c": "MTF/CC.",
+        "d": "COTR."
+      },
+      "correctAnswer": "b",
+      "correctText": "TMA director.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "006",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l006-q4",
+      "level": "7-level",
+      "groupNumber": 6,
+      "groupLabel": "Lesson",
+      "questionNumber": 4,
+      "question": "In regards to internal resource sharing, before a provider is permitted to practice in the MTF, he or she must be granted privileges by the",
+      "choices": {
+        "a": "MCSC.",
+        "b": "MTF/CC.",
+        "c": "TRO.",
+        "d": "TMA."
+      },
+      "correctAnswer": "b",
+      "correctText": "MTF/CC.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "006",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l006-q5",
+      "level": "7-level",
+      "groupNumber": 6,
+      "groupLabel": "Lesson",
+      "questionNumber": 5,
+      "question": "For external resource sharing military health care personnel, who will ensure that the military health care personnel are appropriately licensed and have active clinical privileges with the network facility?",
+      "choices": {
+        "a": "Base commander.",
+        "b": "MTF commander.",
+        "c": "Contractor.",
+        "d": "Provider."
+      },
+      "correctAnswer": "b",
+      "correctText": "MTF commander.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "006",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l006-q6",
+      "level": "7-level",
+      "groupNumber": 6,
+      "groupLabel": "Lesson",
+      "questionNumber": 6,
+      "question": "Who shall have an independent certified public accounting firm perform audit procedures for each resource-sharing agreement to validate that resource-sharing activity is correctly reported under contract provisions?",
+      "choices": {
+        "a": "Contractor.",
+        "b": "RMO.",
+        "c": "MTF commander.",
+        "d": "Base contracting office. Please read the unit menu for unit 2 and continue \u00ce"
+      },
+      "correctAnswer": "a",
+      "correctText": "Contractor.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "006",
+      "sourcePageRange": "1-27 to 1-29"
+    },
+    {
+      "id": "7l-l007-q1",
+      "level": "7-level",
+      "groupNumber": 7,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "To provide the combatant commanders with the best mix of forces, equipment, and support attainable within established fiscal constraints is the ultimate objective of the",
+      "choices": {
+        "a": "DHP.",
+        "b": "FYDP.",
+        "c": "military budget process.",
+        "d": "PPBES."
+      },
+      "correctAnswer": "d",
+      "correctText": "PPBES.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "007",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l007-q2",
+      "level": "7-level",
+      "groupNumber": 7,
+      "groupLabel": "Lesson",
+      "questionNumber": 2,
+      "question": "Which phase of the PPBES is the process of determining objectives and specifying time- phased military force requirements to accomplish a mission?",
+      "choices": {
+        "a": "Planning.",
+        "b": "Programming.",
+        "c": "Budgeting.",
+        "d": "Execution."
+      },
+      "correctAnswer": "a",
+      "correctText": "Planning.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "007",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l007-q3",
+      "level": "7-level",
+      "groupNumber": 7,
+      "groupLabel": "Lesson",
+      "questionNumber": 3,
+      "question": "Which PPBES phase provides the opportunity to make assessments concerning current and previous resource allocations and whether the department achieved its planned performance goal?",
+      "choices": {
+        "a": "Budgeting.",
+        "b": "Planning.",
+        "c": "Programming.",
+        "d": "Execution."
+      },
+      "correctAnswer": "d",
+      "correctText": "Execution.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "007",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l007-q4",
+      "level": "7-level",
+      "groupNumber": 7,
+      "groupLabel": "Lesson",
+      "questionNumber": 4,
+      "question": "What is a four-digit code used by the accounting system to monitor and report purchases by a work center?",
+      "choices": {
+        "a": "BAG.",
+        "b": "EEIC.",
+        "c": "PEC.",
+        "d": "RC/CC."
+      },
+      "correctAnswer": "d",
+      "correctText": "RC/CC.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "007",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l007-q5",
+      "level": "7-level",
+      "groupNumber": 7,
+      "groupLabel": "Lesson",
+      "questionNumber": 5,
+      "question": "What is a grouping of forces, manpower, and costs associated with a military capability or support activity?",
+      "choices": {
+        "a": "PEC.",
+        "b": "Fund citation.",
+        "c": "BAG.",
+        "d": "RC/CC."
+      },
+      "correctAnswer": "a",
+      "correctText": "PEC.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "007",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l007-q6",
+      "level": "7-level",
+      "groupNumber": 7,
+      "groupLabel": "Lesson",
+      "questionNumber": 6,
+      "question": "What funding structure, mandated by the TMA, must MTF commanders, resource management personnel and flight commanders review and manage?",
+      "choices": {
+        "a": "Program elements.",
+        "b": "BAG.",
+        "c": "OBAD.",
+        "d": "EEIC. 2-30"
+      },
+      "correctAnswer": "b",
+      "correctText": "BAG.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "007",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l007-q7",
+      "level": "7-level",
+      "groupNumber": 7,
+      "groupLabel": "Lesson",
+      "questionNumber": 7,
+      "question": "Through the medical logistics flight, which office prepares, and provides guidance for the DWCF, Medical-Dental Stock Division?",
+      "choices": {
+        "a": "USAF/SG.",
+        "b": "USAF/SGOI.",
+        "c": "Air Force Medical Logistics Office.",
+        "d": "Air Force Material Command Medical-Dental Division."
+      },
+      "correctAnswer": "c",
+      "correctText": "Air Force Medical Logistics Office.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "007",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l008-q1",
+      "level": "7-level",
+      "groupNumber": 8,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "Which is not a responsibility of the CCM?",
+      "choices": {
+        "a": "Develop section budget.",
+        "b": "Develop cost center management guide.",
+        "c": "Justify financial and manpower resource requirements.",
+        "d": "Monitor expenditure of section funds."
+      },
+      "correctAnswer": "b",
+      "correctText": "Develop cost center management guide.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "008",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l008-q2",
+      "level": "7-level",
+      "groupNumber": 8,
+      "groupLabel": "Lesson",
+      "questionNumber": 2,
+      "question": "Who maintains the MTF\u2019s cost center management program?",
+      "choices": {
+        "a": "RA.",
+        "b": "CCM.",
+        "c": "RMO.",
+        "d": "MTF commander."
+      },
+      "correctAnswer": "c",
+      "correctText": "RMO.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "008",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l008-q3",
+      "level": "7-level",
+      "groupNumber": 8,
+      "groupLabel": "Lesson",
+      "questionNumber": 3,
+      "question": "How often must CCM meetings be conducted?",
+      "choices": {
+        "a": "Monthly.",
+        "b": "Quarterly.",
+        "c": "Annually.",
+        "d": "As required."
+      },
+      "correctAnswer": "b",
+      "correctText": "Quarterly.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "008",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l009-q1",
+      "level": "7-level",
+      "groupNumber": 9,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "What document should be reviewed to ensure all commitments, obligations, and customer orders are recorded accurately.",
+      "choices": {
+        "a": "COL.",
+        "b": "OBL.",
+        "c": "ODL.",
+        "d": "Financial report."
+      },
+      "correctAnswer": "c",
+      "correctText": "ODL.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "009",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l009-q2",
+      "level": "7-level",
+      "groupNumber": 9,
+      "groupLabel": "Lesson",
+      "questionNumber": 2,
+      "question": "What is the most important snapshot of financial activity the RMO has and serves as their checkbook?",
+      "choices": {
+        "a": "OBL.",
+        "b": "ODL.",
+        "c": "Obligation status reports.",
+        "d": "Status of funds report."
+      },
+      "correctAnswer": "a",
+      "correctText": "OBL.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "009",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l009-q3",
+      "level": "7-level",
+      "groupNumber": 9,
+      "groupLabel": "Lesson",
+      "questionNumber": 3,
+      "question": "What form is used to establish unfilled customer orders between the ordering and performing activities in the accounting records?",
+      "choices": {
+        "a": "AF Form 9, Request for Purchase.",
+        "b": "AF Form 406, Miscellaneous Obligation/Reimbursement Document (MORD).",
+        "c": "AF Form 616, Fund Cite Authorization (FCA).",
+        "d": "DD Form 448, Military Interdepartmental Purchase Request (MIPR)."
+      },
+      "correctAnswer": "b",
+      "correctText": "AF Form 406, Miscellaneous Obligation/Reimbursement Document (MORD).",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "009",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l009-q4",
+      "level": "7-level",
+      "groupNumber": 9,
+      "groupLabel": "Lesson",
+      "questionNumber": 4,
+      "question": "Which form is used to issue funds to other Air Force units when it is impractical to route each request for funds through the Accounting and Finance Office?",
+      "choices": {
+        "a": "AF Form 9, Request for Purchase.",
+        "b": "AF Form 406, Miscellaneous Obligation/Reimbursement Document (MORD).",
+        "c": "AF Form 616, Fund Cite Authorization (FCA).",
+        "d": "DD Form 448, Military Interdepartmental Purchase Request (MIPR). 2-31"
+      },
+      "correctAnswer": "c",
+      "correctText": "AF Form 616, Fund Cite Authorization (FCA).",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "009",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l010-q1",
+      "level": "7-level",
+      "groupNumber": 10,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "Who develops the spend plan?",
+      "choices": {
+        "a": "MTF commander.",
+        "b": "NCOIC, RMO.",
+        "c": "CCM.",
+        "d": "RA."
+      },
+      "correctAnswer": "d",
+      "correctText": "RA.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "010",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l010-q2",
+      "level": "7-level",
+      "groupNumber": 10,
+      "groupLabel": "Lesson",
+      "questionNumber": 2,
+      "question": "Which is not a key to a successful close-out?",
+      "choices": {
+        "a": "Constant review of management reports.",
+        "b": "Pre-planning.",
+        "c": "Close coordination with base agencies.",
+        "d": "Last minute obligations."
+      },
+      "correctAnswer": "d",
+      "correctText": "Last minute obligations.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "010",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l010-q3",
+      "level": "7-level",
+      "groupNumber": 10,
+      "groupLabel": "Lesson",
+      "questionNumber": 3,
+      "question": "What is the primary use of fallout dollars?",
+      "choices": {
+        "a": "Purchase non-medical supplies.",
+        "b": "Purchase equipment.",
+        "c": "Settle travel obligations.",
+        "d": "First priority level expenses."
+      },
+      "correctAnswer": "b",
+      "correctText": "Purchase equipment.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "010",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l011-q1",
+      "level": "7-level",
+      "groupNumber": 11,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "What serves as both a planning and programming guidance document to build the POM?",
+      "choices": {
+        "a": "MAPPG.",
+        "b": "MAPPT.",
+        "c": "UMD.",
+        "d": "UPMR."
+      },
+      "correctAnswer": "a",
+      "correctText": "MAPPG.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "011",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l012-q1",
+      "level": "7-level",
+      "groupNumber": 12,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "What is a tool a unit can use to request a change to manning levels?",
+      "choices": {
+        "a": "MAPPG.",
+        "b": "UPMR.",
+        "c": "ACR.",
+        "d": "UMD."
+      },
+      "correctAnswer": "c",
+      "correctText": "ACR.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "012",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l012-q2",
+      "level": "7-level",
+      "groupNumber": 12,
+      "groupLabel": "Lesson",
+      "questionNumber": 2,
+      "question": "Prior to submitting an ACR who must the RMO check with to ensure no impact is made on the unit\u2019s deployment requirements?",
+      "choices": {
+        "a": "NCOIC, RMO.",
+        "b": "Unit deployment manager.",
+        "c": "MTF/CC.",
+        "d": "Base manpower office."
+      },
+      "correctAnswer": "b",
+      "correctText": "Unit deployment manager.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "012",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l013-q1",
+      "level": "7-level",
+      "groupNumber": 13,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "How many panels will the AFMS use to identify and champion necessary changes?",
+      "choices": {
+        "a": "3.",
+        "b": "6.",
+        "c": "9.",
+        "d": "12."
+      },
+      "correctAnswer": "c",
+      "correctText": "9.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "013",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l013-q2",
+      "level": "7-level",
+      "groupNumber": 13,
+      "groupLabel": "Lesson",
+      "questionNumber": 2,
+      "question": "The Long View strategy looks at the AFMS from a strategic viewpoint of how many years?",
+      "choices": {
+        "a": "Four years and beyond.",
+        "b": "Six years and beyond.",
+        "c": "Eight years and beyond.",
+        "d": "Ten years and beyond."
+      },
+      "correctAnswer": "d",
+      "correctText": "Ten years and beyond.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "013",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l014-q1",
+      "level": "7-level",
+      "groupNumber": 14,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "The Long View strategy will position the AFMS for the greatest return with the least risk. The outcome will be the highest state of readiness, the best health status, and the",
+      "choices": {
+        "a": "lowest environmental costs.",
+        "b": "lowest private sector costs.",
+        "c": "lowest overall cost.",
+        "d": "saving of life. 2-32"
+      },
+      "correctAnswer": "c",
+      "correctText": "lowest overall cost.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "014",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l014-q2",
+      "level": "7-level",
+      "groupNumber": 14,
+      "groupLabel": "Lesson",
+      "questionNumber": 2,
+      "question": "Which analysis is accomplished by analyzing the private sector and direct care risk?",
+      "choices": {
+        "a": "Readiness currency case analysis.",
+        "b": "RCA.",
+        "c": "CCA.",
+        "d": "BCA."
+      },
+      "correctAnswer": "c",
+      "correctText": "CCA.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "014",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l014-q3",
+      "level": "7-level",
+      "groupNumber": 14,
+      "groupLabel": "Lesson",
+      "questionNumber": 3,
+      "question": "Which analysis places the assets where the population drives the largest financial risk?",
+      "choices": {
+        "a": "Readiness currency case analysis.",
+        "b": "RCA.",
+        "c": "CCA.",
+        "d": "BCA."
+      },
+      "correctAnswer": "d",
+      "correctText": "BCA.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "014",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l015-q1",
+      "level": "7-level",
+      "groupNumber": 15,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "Which is not a tool used to formulate the initial baseline manpower requirements for the MAPPG?",
+      "choices": {
+        "a": "DCT.",
+        "b": "IAT.",
+        "c": "MRT.",
+        "d": "MTF summary tool."
+      },
+      "correctAnswer": "d",
+      "correctText": "MTF summary tool.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "015",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l016-q1",
+      "level": "7-level",
+      "groupNumber": 16,
+      "groupLabel": "Lesson",
+      "questionNumber": 1,
+      "question": "The decision process is used to determine the type of manpower to use when validating",
+      "choices": {
+        "a": "short-term goals.",
+        "b": "comptroller issues.",
+        "c": "manpower requirements.",
+        "d": "MAJCOM mission statements."
+      },
+      "correctAnswer": "c",
+      "correctText": "manpower requirements.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "016",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l016-q2",
+      "level": "7-level",
+      "groupNumber": 16,
+      "groupLabel": "Lesson",
+      "questionNumber": 2,
+      "question": "Who is responsible for providing active military authorizations?",
+      "choices": {
+        "a": "MAJCOM.",
+        "b": "HQ USAF/SG.",
+        "c": "MTF commander.",
+        "d": "Wing commander."
+      },
+      "correctAnswer": "a",
+      "correctText": "MAJCOM.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "016",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l016-q3",
+      "level": "7-level",
+      "groupNumber": 16,
+      "groupLabel": "Lesson",
+      "questionNumber": 3,
+      "question": "Air Reserve Force authorizations must be identified to",
+      "choices": {
+        "a": "HQ USAF/SG.",
+        "b": "HQ USAF/CC.",
+        "c": "HQ USAF/DO.",
+        "d": "HQ USAF/XP."
+      },
+      "correctAnswer": "d",
+      "correctText": "HQ USAF/XP.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "016",
+      "sourcePageRange": "2-29 to 2-32"
+    },
+    {
+      "id": "7l-l016-q4",
+      "level": "7-level",
+      "groupNumber": 16,
+      "groupLabel": "Lesson",
+      "questionNumber": 4,
+      "question": "Who approves the interim use of civilians until military resources can be planned and made available?",
+      "choices": {
+        "a": "Wing commander.",
+        "b": "MTF commander.",
+        "c": "MAJCOM.",
+        "d": "Provider."
+      },
+      "correctAnswer": "c",
+      "correctText": "MAJCOM.",
+      "isScorableQuestion": true,
+      "verified": true,
+      "lesson": "016",
+      "sourcePageRange": "2-29 to 2-32"
+    }
+  ]
+}

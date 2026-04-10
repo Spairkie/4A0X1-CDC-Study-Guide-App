@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --surface:        255 255 255;
+    --surface-raised: 241 245 249;
+    --bg:             255 255 255;
+    --bg-subtle:      248 250 252;
+    --border:         226 232 240;
+    --text:           15 23 42;
+    --text-muted:     100 116 139;
+    --text-subtle:    148 163 184;
+  }
+
+  .dark {
+    --surface:        30 41 59;
+    --surface-raised: 51 65 85;
+    --bg:             15 23 42;
+    --bg-subtle:      30 41 59;
+    --border:         51 65 85;
+    --text:           248 250 252;
+    --text-muted:     148 163 184;
+    --text-subtle:    100 116 139;
+  }
+
+  * {
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    /* Prevent layout shift from scrollbar appearing */
+    overflow-y: scroll;
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background-color: rgb(var(--bg));
+    color: rgb(var(--text));
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* Prevent text size adjustment on mobile rotation */
+    -webkit-text-size-adjust: 100%;
+  }
+
+  h1, h2, h3, h4, h5 {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+}
+
+@layer utilities {
+  /* These use CSS vars NOT in the Tailwind palette so need manual utilities */
+  .bg-app        { background-color: rgb(var(--bg)); }
+  .bg-subtle     { background-color: rgb(var(--bg-subtle)); }
+  .bg-raised     { background-color: rgb(var(--surface-raised)); }
+  .border-app    { border-color: rgb(var(--border)); }
+  .text-app      { color: rgb(var(--text)); }
+  .text-muted    { color: rgb(var(--text-muted)); }
+  .text-subtle   { color: rgb(var(--text-subtle)); }
+
+  /* Safe area insets for notched phones */
+  .safe-bottom { padding-bottom: max(env(safe-area-inset-bottom), 0.5rem); }
+  .safe-top    { padding-top:    env(safe-area-inset-top); }
+
+  /* Hide scrollbars while keeping scroll behavior */
+  .scrollbar-none {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .scrollbar-none::-webkit-scrollbar { display: none; }
+}
+
+/* ─── Animations ─────────────────────────────────────────────────────────── */
+
+@keyframes progressFill {
+  from { width: 0%; }
+}
+.progress-fill { animation: progressFill 0.4s ease-out; }
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
