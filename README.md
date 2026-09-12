@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" alt="4A0X1 Study Guide — Air Force CDC quiz app" width="800" />
 
-<img src="assets/app-preview.png" alt="4A0X1 Study Guide app — real dashboard" width="800" />
+<img src="assets/app-preview.png" alt="4A0X1 Study Guide app — real quiz session (Module 1 question, local dev run)" width="800" />
 
 A quiz and study app for the Air Force 4A0X1 (Health Services Management) Career Development Courses — 200 practice questions across the 5-level and 7-level CDCs, with quiz sessions, missed-question review, and progress stats.
 
